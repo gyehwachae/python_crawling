@@ -17,3 +17,4 @@ driver.find_elements(By.CSS_SELECTOR, ".uhHOwf.BYbUcd")[0].click()
 # driver.close()
 
 #추가
+#해해ㅎ

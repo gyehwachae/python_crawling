@@ -15,3 +15,5 @@ driver.find_elements(By.CSS_SELECTOR, ".uhHOwf.BYbUcd")[0].click()
 # elem.send_keys(Keys.RETURN)
 # assert "No results found." not in driver.page_source
 # driver.close()
+
+#추가
